@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+  - 2.1.0
+sudo: false
+branches:
+  only:
+  - master
+script:
+  - echo nothing
